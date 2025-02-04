@@ -1,0 +1,1 @@
+This repository provides SAS instructional materials for Health Science 416 at Simon Fraser University, designed for the Fall 2024 term. It includes resources to support learning and application of SAS in health science research.
